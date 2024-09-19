@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mohamed Saeed Abu Samaha
-- 👀 I’m interested in Embedded systems.
-- 🌱 I’m currently learning Interfacing.
+- 👀 I’m interested in Embedded systems, IOT, and AI.
+- 🌱 I’m currently learning AI.
 - 📫 Mobile number(01090862134)
 - linkedin :www.linkedin.com/in/mohamedabusamaha777
 
